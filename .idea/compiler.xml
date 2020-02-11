@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumerlee" />
+        <module name="eureka_client" />
+        <module name="eurekaserver" />
+        <module name="feign" />
+        <module name="gatewey" />
+        <module name="hystrix" />
+        <module name="nativeconfig" />
+        <module name="nativeconfigclient" />
+        <module name="resttemplate" />
+        <module name="ribboon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aasa" target="1.8" />
+      <module name="abs" target="1.8" />
+      <module name="aeurekaserver" target="1.8" />
+      <module name="consumer" target="1.8" />
+      <module name="eqweqw" target="1.8" />
+      <module name="eurekaclient" target="1.8" />
+      <module name="qqq" target="1.8" />
+      <module name="qweqwe" target="1.8" />
+      <module name="qweqweq" target="1.8" />
+      <module name="ribbon" target="1.8" />
+      <module name="sadsadas" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aasa" options="-parameters" />
+      <module name="abs" options="-parameters" />
+      <module name="aeurekaserver" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="consumerlee" options="-parameters" />
+      <module name="eqweqw" options="-parameters" />
+      <module name="eureka_client" options="-parameters" />
+      <module name="eurekaclient" options="-parameters" />
+      <module name="eurekaserver" options="-parameters" />
+      <module name="feign" options="-parameters" />
+      <module name="gatewey" options="-parameters" />
+      <module name="hystrix" options="-parameters" />
+      <module name="nativeconfig" options="-parameters" />
+      <module name="nativeconfigclient" options="-parameters" />
+      <module name="qqq" options="-parameters" />
+      <module name="qweqwe" options="-parameters" />
+      <module name="qweqweq" options="-parameters" />
+      <module name="resttemplate" options="-parameters" />
+      <module name="ribbon" options="-parameters" />
+      <module name="ribboon" options="-parameters" />
+      <module name="sadsadas" options="-parameters" />
+    </option>
+  </component>
+</project>

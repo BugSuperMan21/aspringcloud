@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka_client/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/aaasa/pom.xml" />
+        <option value="$PROJECT_DIR$/aasa/pom.xml" />
+        <option value="$PROJECT_DIR$/abs/pom.xml" />
+        <option value="$PROJECT_DIR$/aeurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/eqweqw/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaclient/pom.xml" />
+        <option value="$PROJECT_DIR$/qqq/pom.xml" />
+        <option value="$PROJECT_DIR$/qweqwe/pom.xml" />
+        <option value="$PROJECT_DIR$/qweqweq/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/sadsadas/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
